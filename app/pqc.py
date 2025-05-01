@@ -2,6 +2,8 @@ from kyber_py.ml_kem import ML_KEM_512
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 import os
 
+#Encryption and Decryption Logic
+
 def keygen():
     public_key, private_key = ML_KEM_512.keygen()
     return public_key, private_key
