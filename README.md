@@ -35,9 +35,9 @@ pqc-flask-app/<br>
 │   ├── routes.py<br>
 │   ├── pqc.py            
 │   ├── templates/<br>
-│   |&nbsp;&nbsp;&nbsp;&nbsp;├── index.html<br>
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── index.html<br>
 │   ├── static/<br>
-│   |&nbsp;&nbsp;&nbsp;&nbsp;├── bootstrap.min.css<br>
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── bootstrap.min.css<br>
 ├── requirements.txt<br>
 ├── run.py<br>
 ├── README.md<br>
