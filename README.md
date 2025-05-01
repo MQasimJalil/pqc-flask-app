@@ -29,18 +29,18 @@ This project demonstrates secure encryption and decryption using **Post-Quantum 
 
 ## 📁 Project Structure
 
-pqc-flask-app/
-├── app/
-│   ├── __init__.py
-│   ├── routes.py
-│   ├── pqc.py            
-│   ├── templates/
-│   │   ├── index.html
-│   ├── static/
-│       ├── bootstrap.min.css
-├── requirements.txt
-├── run.py
-├── README.md
+pqc-flask-app/<br>
+├── app/<br>
+│   ├── __init__.py<br>
+│   ├── routes.py<br>
+│   ├── pqc.py<br>            
+│   ├── templates/<br>
+│   │   ├── index.html<br>
+│   ├── static/<br>
+│       ├── bootstrap.min.css<br>
+├── requirements.txt<br>
+├── run.py<br>
+├── README.md<br>
 
 ---
 
